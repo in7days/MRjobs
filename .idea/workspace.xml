@@ -56,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626443877492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MR Jobs">
+      <created>1626444006740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626444006740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MR Jobs">
+      <created>1626444315229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626444315229</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -65,13 +79,21 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="224" y="23" key="CommitChangelistDialog2" timestamp="1626443876096">
+    <state x="101" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626444037803">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="224" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1626443876096" />
-    <state x="237" y="141" key="Vcs.Push.Dialog.v2" timestamp="1626443990318">
+    <state x="101" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1626444037803" />
+    <state x="224" y="23" key="CommitChangelistDialog2" timestamp="1626444315081">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="237" y="141" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1626443990318" />
+    <state x="224" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1626444315081" />
+    <state x="237" y="141" key="Vcs.Push.Dialog.v2" timestamp="1626444112449">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="237" y="141" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1626444112449" />
+    <state x="433" y="297" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1626444809729">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="433" y="297" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.777@0.23.1280.777" timestamp="1626444809729" />
   </component>
 </project>
