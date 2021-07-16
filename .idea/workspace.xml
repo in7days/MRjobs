@@ -10,10 +10,20 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Daiwik Patnaik" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1i8LBtDEkuKm4VkAURvuAwhQjKn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,12 +49,29 @@
       <option name="presentableId" value="Default" />
       <updated>1601284139810</updated>
     </task>
+    <task id="LOCAL-00001" summary="MR Jobs">
+      <created>1626443877491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626443877492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MR Jobs" />
+    <option name="LAST_COMMIT_MESSAGE" value="MR Jobs" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601454352730">
+    <state x="224" y="23" key="CommitChangelistDialog2" timestamp="1626443876096">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="309" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1601454352730" />
+    <state x="224" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1626443876096" />
+    <state x="237" y="141" key="Vcs.Push.Dialog.v2" timestamp="1626443990318">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="237" y="141" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1626443990318" />
   </component>
 </project>
